@@ -1,4 +1,8 @@
 <h1>To-do App</h1>
+<br>
+<img src="todo-1.jpeg">
+<img src="todo-2.jpeg">
+<br>
 <ol>
   <li>Task Creation: Users can input tasks they need to complete along with their completion dates.</li>
   <li>Task Display: Tasks are displayed in a visually appealing format, with each task presented as a separate card or container.</li>
